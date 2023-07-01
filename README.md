@@ -3,7 +3,8 @@ The database contained 760 bilayers, which were constructed from different class
 
 Please cite if you are using our database: High Throughput Calculations of Bilayer Materials: BMDB Database. figshare. Dataset (2022), 2022-12-30 - First online date, URL https://doi.org/10.6084/m9.figshare.21799475. And High throughput calculations for a dataset of bilayer materials, Sci. Data 10, 232 (2023).
 
-Bibtex files: 
+Bibtex files:
+
 @misc{BMDS-Dataset,
    author={Barik, Ranjan Kumar and Woods, Lilia M.},
    year = {2022},
